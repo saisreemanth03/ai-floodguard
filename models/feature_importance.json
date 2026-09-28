@@ -1,0 +1,238 @@
+[
+  {
+    "feature": "land_cover_Forest / Catchment",
+    "importance": 0.12058
+  },
+  {
+    "feature": "hydro_compound_index",
+    "importance": 0.11311
+  },
+  {
+    "feature": "rainfall_intensity",
+    "importance": 0.09037
+  },
+  {
+    "feature": "rainfall",
+    "importance": 0.08853
+  },
+  {
+    "feature": "rainfall_x_soil_moisture",
+    "importance": 0.08628
+  },
+  {
+    "feature": "cumulative_rainfall",
+    "importance": 0.07569
+  },
+  {
+    "feature": "humidity",
+    "importance": 0.06096
+  },
+  {
+    "feature": "land_cover_Urban High-Density",
+    "importance": 0.04192
+  },
+  {
+    "feature": "soil_moisture",
+    "importance": 0.03562
+  },
+  {
+    "feature": "river_level",
+    "importance": 0.03173
+  },
+  {
+    "feature": "longitude",
+    "importance": 0.03008
+  },
+  {
+    "feature": "reservoir_discharge_cumec",
+    "importance": 0.02865
+  },
+  {
+    "feature": "river_level_change",
+    "importance": 0.02642
+  },
+  {
+    "feature": "elevation_risk",
+    "importance": 0.02342
+  },
+  {
+    "feature": "elevation",
+    "importance": 0.02207
+  },
+  {
+    "feature": "land_cover_Agricultural (Paddy/Kharif)",
+    "importance": 0.01755
+  },
+  {
+    "feature": "latitude",
+    "importance": 0.01522
+  },
+  {
+    "feature": "drainage_proximity",
+    "importance": 0.01386
+  },
+  {
+    "feature": "land_cover_Wetland / Floodplain",
+    "importance": 0.01054
+  },
+  {
+    "feature": "historical_flood_frequency",
+    "importance": 0.00982
+  },
+  {
+    "feature": "river_basin_Periyar & Pamba (Western Ghats)",
+    "importance": 0.0065
+  },
+  {
+    "feature": "river_basin_Cauvery",
+    "importance": 0.00582
+  },
+  {
+    "feature": "river_basin_Brahmaputra",
+    "importance": 0.00547
+  },
+  {
+    "feature": "river_basin_Ganga (Lower & Middle)",
+    "importance": 0.00467
+  },
+  {
+    "feature": "land_cover_Coastal / Alluvial",
+    "importance": 0.00454
+  },
+  {
+    "feature": "temperature",
+    "importance": 0.00415
+  },
+  {
+    "feature": "land_cover_Barren / Fallow",
+    "importance": 0.00382
+  },
+  {
+    "feature": "river_basin_Narmada & Tapi",
+    "importance": 0.00229
+  },
+  {
+    "feature": "state_Karnataka",
+    "importance": 0.00196
+  },
+  {
+    "feature": "state_Kerala",
+    "importance": 0.00161
+  },
+  {
+    "feature": "river_basin_Mahanadi & Baitarani",
+    "importance": 0.00146
+  },
+  {
+    "feature": "river_basin_Krishna & Tungabhadra",
+    "importance": 0.00138
+  },
+  {
+    "feature": "river_basin_Godavari",
+    "importance": 0.00125
+  },
+  {
+    "feature": "state_Maharashtra",
+    "importance": 0.00109
+  },
+  {
+    "feature": "river_basin_Yamuna",
+    "importance": 0.00104
+  },
+  {
+    "feature": "state_Assam",
+    "importance": 0.0008
+  },
+  {
+    "feature": "monsoon_season_Pre-Monsoon / Summer",
+    "importance": 0.00078
+  },
+  {
+    "feature": "state_Tamil Nadu",
+    "importance": 0.00075
+  },
+  {
+    "feature": "state_Arunachal Pradesh",
+    "importance": 0.00073
+  },
+  {
+    "feature": "state_Meghalaya",
+    "importance": 0.00072
+  },
+  {
+    "feature": "monsoon_season_Post-Monsoon / Winter",
+    "importance": 0.00069
+  },
+  {
+    "feature": "monsoon_season_Southwest Monsoon (JJAS)",
+    "importance": 0.00068
+  },
+  {
+    "feature": "state_West Bengal",
+    "importance": 0.00059
+  },
+  {
+    "feature": "river_basin_Indus / Jhelum / Sutlej Tributaries",
+    "importance": 0.00048
+  },
+  {
+    "feature": "state_Odisha",
+    "importance": 0.00047
+  },
+  {
+    "feature": "state_Bihar",
+    "importance": 0.00043
+  },
+  {
+    "feature": "state_Chhattisgarh",
+    "importance": 0.00043
+  },
+  {
+    "feature": "state_Gujarat",
+    "importance": 0.0004
+  },
+  {
+    "feature": "monsoon_season_Northeast Monsoon (OND)",
+    "importance": 0.00039
+  },
+  {
+    "feature": "state_Madhya Pradesh",
+    "importance": 0.00035
+  },
+  {
+    "feature": "state_Andhra Pradesh",
+    "importance": 0.00033
+  },
+  {
+    "feature": "state_Telangana",
+    "importance": 0.00033
+  },
+  {
+    "feature": "state_Uttar Pradesh",
+    "importance": 0.00032
+  },
+  {
+    "feature": "state_Himachal Pradesh",
+    "importance": 0.00028
+  },
+  {
+    "feature": "state_Haryana",
+    "importance": 0.0002
+  },
+  {
+    "feature": "state_Delhi NCR",
+    "importance": 0.00014
+  },
+  {
+    "feature": "state_Jammu & Kashmir",
+    "importance": 9e-05
+  },
+  {
+    "feature": "state_Punjab",
+    "importance": 8e-05
+  },
+  {
+    "feature": "state_Uttarakhand",
+    "importance": 8e-05
+  }
+]

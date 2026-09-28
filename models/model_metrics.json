@@ -1,0 +1,76 @@
+{
+  "best_model_name": "HistGradientBoosting / LightGBM",
+  "models": [
+    {
+      "model_name": "Logistic Regression",
+      "accuracy": 0.977,
+      "precision": 0.9892,
+      "recall": 0.9739,
+      "f1": 0.9815,
+      "roc_auc": 0.9984,
+      "confusion_matrix": [
+        [
+          10968,
+          200
+        ],
+        [
+          491,
+          18341
+        ]
+      ],
+      "true_negatives": 10968,
+      "false_positives": 200,
+      "false_negatives": 491,
+      "true_positives": 18341,
+      "training_time_seconds": 3.31
+    },
+    {
+      "model_name": "Random Forest",
+      "accuracy": 0.9658,
+      "precision": 0.9855,
+      "recall": 0.9596,
+      "f1": 0.9724,
+      "roc_auc": 0.9964,
+      "confusion_matrix": [
+        [
+          10902,
+          266
+        ],
+        [
+          761,
+          18071
+        ]
+      ],
+      "true_negatives": 10902,
+      "false_positives": 266,
+      "false_negatives": 761,
+      "true_positives": 18071,
+      "training_time_seconds": 21.04
+    },
+    {
+      "model_name": "HistGradientBoosting / LightGBM",
+      "accuracy": 0.9785,
+      "precision": 0.9906,
+      "recall": 0.975,
+      "f1": 0.9828,
+      "roc_auc": 0.9986,
+      "confusion_matrix": [
+        [
+          10994,
+          174
+        ],
+        [
+          470,
+          18362
+        ]
+      ],
+      "true_negatives": 10994,
+      "false_positives": 174,
+      "false_negatives": 470,
+      "true_positives": 18362,
+      "training_time_seconds": 28.87
+    }
+  ],
+  "total_training_time": 58.7,
+  "timestamp": "2026-09-25T06:54:23Z"
+}

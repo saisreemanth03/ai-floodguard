@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: floodguard-api
+    runtime: python
+    region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.8
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: MODEL_PATH
+        value: models/flood_model.pkl
+      - key: PREPROCESSOR_PATH
+        value: models/preprocessor.pkl
+      - key: DATASET_PATH
+        value: data/flood_dataset.csv
+      - key: TARGET_COLUMN
+        value: flood
